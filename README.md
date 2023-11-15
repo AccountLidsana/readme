@@ -19,7 +19,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 <p align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,php,laravel,mysql,vite,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,php,laravel,mysql,vite,vscode,postman,ubuntu" />
 
 
   </a>
